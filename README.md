@@ -1,11 +1,10 @@
+# Previsão de vendas de uma rede de drogarias  
 
+A Dirk Rossmann GmbH, é uma das maiores redes de drogarias da Europa, com cerca de 56.200 funcionários e mais de 4.000 lojas. Em 2019, a Rossmann faturou mais de € 10 bilhões na Alemanha, Polônia, Hungria, República Tcheca, Turquia, Albânia, Kosovo e Espanha. 
 
-# Previsão de vendas de uma rede de drogarias 
+![csm_buehne_mobil_unternehmen_5_1000x848_1bd7e72387](https://user-images.githubusercontent.com/69815426/144940356-a00abf79-b51b-47ce-b458-c706e326fdb1.jpg)..
 
 **Qual é o problema do negócio?**  
-
-A Dirk Rossmann GmbH, é uma das maiores redes de drogarias da Europa, com cerca de 56.200 funcionários e mais de 4.000 lojas. Em 2019, a Rossmann faturou mais de € 10 bilhões na Alemanha, Polônia, Hungria, República Tcheca, Turquia, Albânia, Kosovo e Espanha.  
-
 Os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. 
 
 A questão é: realizar a previsão de vendas com seis semanas de antecedência. 
