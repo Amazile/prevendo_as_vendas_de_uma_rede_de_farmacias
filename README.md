@@ -1,4 +1,7 @@
-# Previsão de vendas de uma rede de drogarias   
+
+
+# Previsão de vendas de uma rede de drogarias 
+
 **Qual é o problema do negócio?**  
 
 A Dirk Rossmann GmbH, é uma das maiores redes de drogarias da Europa, com cerca de 56.200 funcionários e mais de 4.000 lojas. Em 2019, a Rossmann faturou mais de € 10 bilhões na Alemanha, Polônia, Hungria, República Tcheca, Turquia, Albânia, Kosovo e Espanha.  
