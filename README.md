@@ -17,4 +17,8 @@ Ressalta-se que neste projeto foi apresentado o primeiro ciclo do método CRISP 
 
 Inicialmente no notebook são apresentados:  
 - A) Bibliotecas
-- B)
+- B) Funções auxiliares
+- C) Carregamento dos dados
+
+Logo após temos:
+- Passo 1 - Descrição dos dados: 
