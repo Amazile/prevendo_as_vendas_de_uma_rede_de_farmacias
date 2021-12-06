@@ -3,9 +3,9 @@
 
 A a Dirk Rossmann GmbH, é uma das maiores redes de drogarias da Europa, com cerca de 56.200 funcionários e mais de 4.000 lojas. Em 2019, a Rossmann faturou mais de € 10 bilhões na Alemanha, Polônia, Hungria, República Tcheca, Turquia, Albânia, Kosovo e Espanha.  
 
-Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. 
+Os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. 
 
-A questão é realizar a previsão de vendas com seis semanas de antecedência. 
+A questão é: realizar a previsão de vendas com seis semanas de antecedência. 
 
 **Fonte dos dados**  
 https://www.kaggle.com/c/rossmann-store-sales 
@@ -30,3 +30,6 @@ Logo após temos:
 - Passo 7 - Machine learning modelling
 - Passo 8 - Hyperparameter fine tunning
 - Passo 9 - Tradução e interpretação do erro
+
+No final do trabalho obtém-se a seguinte previsão de valores para as próximas 6 semanas:
+![testeA](https://user-images.githubusercontent.com/69815426/144938450-e2e490b6-5e29-44c1-8fa6-c37505cda5c0.png)
