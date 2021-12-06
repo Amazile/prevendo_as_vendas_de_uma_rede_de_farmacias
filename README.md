@@ -11,9 +11,7 @@ A questão é: realizar a previsão de vendas com seis semanas de antecedência.
 https://www.kaggle.com/c/rossmann-store-sales 
 
 **Método utilizado para a solução do problema**  
-Para efetuar a previsão de vendas da rede de drogarias Rossmann, tendo como base o primeiro ciclo do método Cross Industry Standard Process (CRISP).  
-
-Ressalta-se que neste projeto foi apresentado o primeiro ciclo do método CRISP como demonstração do meu trabalho utilizando, por exemplo, python, estatística e machine learning.
+Para efetuar a previsão de vendas da rede de drogarias Rossmann foi utilizado o Cross Industry Standard Process for Data Mining (CRISP-DM).  Neste trabalho é apresentado o primeiro ciclo do CRISP-DM. 
 
 Inicialmente no notebook são apresentados:  
 - A) Bibliotecas
