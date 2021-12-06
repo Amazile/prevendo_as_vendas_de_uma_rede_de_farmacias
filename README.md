@@ -21,4 +21,12 @@ Inicialmente no notebook são apresentados:
 - C) Carregamento dos dados
 
 Logo após temos:
-- Passo 1 - Descrição dos dados: 
+- Passo 1 - Descrição dos dados
+- Passo 2 - Feature engineering
+- Passo 3 - Filtragem das variáveis
+- Passo 4 - Análise exploratória dos dados
+- Passo 5 - Preparação dos dados
+- Passo 6 - Seleção de features
+- Passo 7 - Machine learning modelling
+- Passo 8 - Hyperparameter fine tunning
+- Passo 9 - Tradução e interpretação do erro
