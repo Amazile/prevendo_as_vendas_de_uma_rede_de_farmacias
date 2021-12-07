@@ -40,7 +40,9 @@ E a seguir:
 - Passo 8 - Hyperparameter fine tunning: single performance e cross validation, real performance e cross validation.  
 **Observação:**  XGBoost Regressor selecionado: custo/benefício da implementação. 
 
-- Passo 9 - Tradução e interpretação do erro
+- Passo 9 - Tradução e interpretação do erro  
+
+**Conclusão (primeiro ciclo do CRISP-DM):**  
 
 No final do trabalho obtém-se a seguinte previsão de valores para as próximas 6 semanas:
 ![testeA](https://user-images.githubusercontent.com/69815426/144938450-e2e490b6-5e29-44c1-8fa6-c37505cda5c0.png)  
