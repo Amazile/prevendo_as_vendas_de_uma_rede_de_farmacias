@@ -15,7 +15,7 @@ https://www.kaggle.com/c/rossmann-store-sales
 **Método utilizado para a solução do problema**  
 Para efetuar a previsão de vendas da rede de drogarias Rossmann foi utilizado o Cross Industry Standard Process for Data Mining (CRISP-DM).  Neste trabalho é apresentado o primeiro ciclo do CRISP-DM. 
 
-Ressalta-se que no mundo real é fundamental entender a questão de negócio. Por esta razão é estratégico entender o problema. Perguntas direcionadas ao time de negócios podem auxiliar nesse entendimento, como por exemplo: por que é importante essa análise para o negócio? / quem iremos analisar? (compradores, fornecedores...) / O que iremos analisar (comportamento de compra...)? A análise estará direcionada a que contexto? / Qual período será considerado para as análises?  Após esse entendimento, então iniciam-se os trabalhos de coleta dos dados e outros passos que são descritos a seguir, e que podem ser acompanhados detalhadamente no notebook.        
+Ressalta-se que no mundo real é fundamental entender a questão de negócio. Por esta razão é estratégico entender o problema. Perguntas direcionadas ao time de negócios podem auxiliar nesse entendimento, como por exemplo: por que é importante essa análise para o negócio? / quem iremos analisar? (compradores, fornecedores...) / o que iremos analisar (comportamento de compra...)? a análise estará direcionada a que contexto? / qual período será considerado para as análises?  Após esse entendimento, então iniciam-se os trabalhos de coleta dos dados e outros passos que são descritos a seguir, e que podem ser acompanhados detalhadamente no notebook.        
 
 Inicialmente no notebook são apresentados:  
 - A) Bibliotecas
@@ -49,7 +49,7 @@ No final do trabalho obtém-se a seguinte previsão de valores para as próximas
 
 **Referências**  
 
-- Fonte da imagem: https://en.wikipedia.org/wiki/Rossmann_(company)  
+- Fonte da imagem e dados básicos da empresa: https://en.wikipedia.org/wiki/Rossmann_(company)  
 - Comunidade DS: https://www.comunidadedatascience.com/blog/  
 - CRISP-DM: https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining  
   
