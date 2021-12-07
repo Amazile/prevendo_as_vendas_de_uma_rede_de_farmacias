@@ -15,20 +15,31 @@ https://www.kaggle.com/c/rossmann-store-sales
 **Método utilizado para a solução do problema**  
 Para efetuar a previsão de vendas da rede de drogarias Rossmann foi utilizado o Cross Industry Standard Process for Data Mining (CRISP-DM).  Neste trabalho é apresentado o primeiro ciclo do CRISP-DM. 
 
+Ressalta-se que no mundo real é fundamental entender a questão de negócio. Por esta razão é estratégico entender o problema do negócio. Perguntas direcionadas ao time de negócios podem auxiliar nesse entendimento, como por exemplo: por que é importante essa análise para o negócio? / quem iremos analisar? (compradores, fornecedores...) / O que iremos analisar (comportamento de compra...)? A análise estará direcionada a que contexto? / Qual período será considerado para as análises?  Após esse entendimento, então iniciam-se os trabalhos de coleta dos dados e outros passos que são descritos a seguir, e que podem ser acompanhados detalhadamente no notebook.      
+
 Inicialmente no notebook são apresentados:  
 - A) Bibliotecas
 - B) Funções auxiliares
 - C) Carregamento dos dados
 
 E a seguir:
-- Passo 1 - Descrição dos dados
-- Passo 2 - Feature engineering
-- Passo 3 - Filtragem das variáveis
-- Passo 4 - Análise exploratória dos dados
-- Passo 5 - Preparação dos dados
-- Passo 6 - Seleção de features
-- Passo 7 - Machine learning modelling
-- Passo 8 - Hyperparameter fine tunning
+- Passo 1 - Descrição dos dados: descrição dos dados, substituição dos dados faltantes e estatística descritiva.
+  
+- Passo 2 - Feature engineering:  brainstorming de hipóteses e feature engineering.   
+
+- Passo 3 - Filtragem das variáveis: de acordo com o time de negócios as variáveis são filtradas.
+  
+- Passo 4 - Análise exploratória dos dados: análise univariada, análise bivariada e análise multivariada. 
+ 
+- Passo 5 - Preparação dos dados: rescaling, encoding, esponse variable transformation, nature transformation.  
+
+- Passo 6 - Seleção de features: divisão do dataframe em treinamento e conjunto de dados de teste, boruta.
+
+- Passo 7 - Machine learning modelling: estabelecendo a média, regressão linear e cross validation, lasso e cross validation, random forest e cross validation,XGBoost regressor e cross validation.
+ 
+- Passo 8 - Hyperparameter fine tunning: single performance e cross validation, real performance e cross validation.  
+**Observação:**  XGBoost Regressor selecionado: custo/benefício da implementação. 
+
 - Passo 9 - Tradução e interpretação do erro
 
 No final do trabalho obtém-se a seguinte previsão de valores para as próximas 6 semanas:
