@@ -20,7 +20,7 @@ Inicialmente no notebook são apresentados:
 - B) Funções auxiliares
 - C) Carregamento dos dados
 
-Logo após temos:
+E a seguir:
 - Passo 1 - Descrição dos dados
 - Passo 2 - Feature engineering
 - Passo 3 - Filtragem das variáveis
