@@ -49,3 +49,5 @@ No final do trabalho obtém-se a seguinte previsão de valores para as próximas
 
 - Fonte da imagem: https://en.wikipedia.org/wiki/Rossmann_(company)  
 - Comunidade DS: https://www.comunidadedatascience.com/blog/  
+- https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining  
+  
