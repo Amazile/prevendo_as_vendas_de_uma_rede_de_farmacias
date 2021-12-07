@@ -32,4 +32,8 @@ E a seguir:
 - Passo 9 - Tradução e interpretação do erro
 
 No final do trabalho obtém-se a seguinte previsão de valores para as próximas 6 semanas:
-![testeA](https://user-images.githubusercontent.com/69815426/144938450-e2e490b6-5e29-44c1-8fa6-c37505cda5c0.png)
+![testeA](https://user-images.githubusercontent.com/69815426/144938450-e2e490b6-5e29-44c1-8fa6-c37505cda5c0.png)  
+
+**Referências**
+Fonte da imagem: https://en.wikipedia.org/wiki/Rossmann_(company)  
+Comunidade DS: https://www.comunidadedatascience.com/blog/  
