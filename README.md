@@ -9,6 +9,8 @@ Os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com
 
 A questão é: realizar a previsão de vendas com seis semanas de antecedência. 
 
+Este é um problema de regressão.
+
 **Fonte dos dados**  
 https://www.kaggle.com/c/rossmann-store-sales 
 
